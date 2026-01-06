@@ -296,6 +296,14 @@ In Python (3.1-PPO_mqtt.py), update:
 - Improve reward shaping
 - Add noise/disturbance during training for robustness
 - Move inference to Raspberry Pi / more powerful SBC
+---
+## Group Members
+
+1. Ibrahim bin Nasrum (2116467)
+2. Muhammad Hafidzuddin Hanif Danial bin Norizal (2123651)
+3. Shareen Arawie bin Hisham (2116943)
+4. Muhammad Muhairis Bin Azman (2114599)
+
 
 ---
 ## ✅ Conclusion
